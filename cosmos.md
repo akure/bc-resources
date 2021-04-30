@@ -14,6 +14,8 @@ https://medium.com/@kidinamoto/key-management-choices-for-cosmos-validators-29b9
 
 https://crypto.org/docs/chain-details/module_overview.html#validator
 
+https://lunie.io/guides/how-cosmos-staking-works/
+
 
 **Tendermint**
 
